@@ -1,6 +1,6 @@
 <h3 style="font-weight: bold"> About me </h3>
 
-- 🏠 I am from India. I'm Computer Science Engineer and part time Custom Rom Dev.
+- 🏠 I am from India. I'm a Computer Science Engineer and part time Custom Rom Dev.
 
 - 🌱 I am 21 year old.
 
