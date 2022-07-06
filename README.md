@@ -1,16 +1,30 @@
-### Hi there 👋
+<h3 style="font-weight: bold"> About me </h3>
+
+- 🏠 I am from India. I'm Computer Science Engineer and part time Custom Rom Dev.
+
+- 🌱 I am 21 year old.
+
+- 🏢 I am currently working on [**FLAMINGO**](https://github.com/Flamingo-OS) | [**DERPFEST**](https://derpfest.org/)
+
+- 📫 How to reach me [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) | [**Twitter**](https://twitter.com/HARISH__263)
+
+<h3 style="font-weight: bold" align="center"> HARISH GitHub stats </h3>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Codecity001&theme=tokyonight_duo&hide_border=true"/>
+</p>
+
+<h3 align="center">
+<img src="https://komarev.com/ghpvc/?username=Codecity001&color=blue" alt="Master" />
+</h3>
 
 <!--
-**Codecity001/Codecity001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HARISH GitHub stats](https://github-readme-stats.vercel.app/api?username=Codecity001&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Codecity001?tab=repositories)-->
 
-Here are some ideas to get you started:
+<!--<a href="https://github.com/Codecity001/device_oneplus_guacamoleb-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Codecity001&repo=device_oneplus_guacamoleb-1" />
+</a>
+<a href="https://github.com/Codecity001/device_oneplus_sm8150-common-1 ">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Codecity001&repo=device_oneplus_sm8150-common-1" />
+</a>-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
