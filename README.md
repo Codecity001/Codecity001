@@ -9,7 +9,8 @@
 - 📫 How to reach me [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) | [**Twitter**](https://twitter.com/HARISH__263)
 
 <p align="left">
-<img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
+<!--<img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">-->
+  <img align="left" alt="Coding" width="300" src="https://media3.giphy.com/media/RiohMzXRvUYPFtFO69/giphy.gif">
 </p>
 
 <h3 style="font-weight: bold" align="center"> HARISH GitHub stats </h3>
