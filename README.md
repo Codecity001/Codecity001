@@ -4,9 +4,7 @@
 
 - 🌱 I am 22 year old.
 
-- 🏢 I am currently working on [**DERPFEST**](https://derpfest.org/)
-
-- Previously worked on [**FLAMINGO**](https://github.com/Flamingo-OS)
+- 🏢 I am currently working on [**DERPFEST**](https://derpfest.org/) | Previously worked on [**FLAMINGO**](https://github.com/Flamingo-OS)
 
 - 📫 How to reach me [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) | [**Twitter**](https://twitter.com/HARISH__263)
 
