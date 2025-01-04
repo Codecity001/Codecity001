@@ -1,12 +1,14 @@
 <h3 style="font-weight: bold"> About me </h3>
 
-- 🏠 I am from India. I'm a Computer Science Engineer and part time Custom Rom Dev.
+- 🏠 I am from India. I'm a Computer Science Graduate and part time Custom Rom Dev.
 
-- 🌱 I am 22 year old.
+- 🏫 I am a Data Science Graduate from [**UofM**](https://www.memphis.edu/) 
+
+- 🌱 I am 24 year old.
 
 - 🏢 I am currently working on [**DERPFEST**](https://derpfest.org/) | Previously worked on [**FLAMINGO**](https://github.com/Flamingo-OS)
 
-- 📫 How to reach me [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) | [**Twitter**](https://twitter.com/HARISH__263)
+- 📫 How to reach me [**Linkedin**](linkedin.com/in/harish-sangani-6935aa175) | [**Twitter**](https://twitter.com/HARISH__263) | [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) 
 
 <p align="left">
 <!--<img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">-->
