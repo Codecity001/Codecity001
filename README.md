@@ -8,7 +8,7 @@
 
 - 🏢 I am currently working on [**DERPFEST**](https://derpfest.org/) | Previously worked on [**FLAMINGO**](https://github.com/Flamingo-OS)
 
-- 📫 How to reach me [**Linkedin**](linkedin.com/in/harish-sangani-6935aa175) | [**Twitter**](https://twitter.com/HARISH__263) | [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) 
+- 📫 How to reach me [**Linkedin**](https://www.linkedin.com/in/harish-sangani-6935aa175) | [**Twitter**](https://twitter.com/HARISH__263) | [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) 
 
 <p align="left">
 <!--<img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">-->
