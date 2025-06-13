@@ -25,7 +25,6 @@
 <img src="https://komarev.com/ghpvc/?username=Codecity001&color=blue" alt="Master" />
 </h3>
 
-<h3 align="center"> PacMan </h3>
 
 ![](https://raw.githubusercontent.com/Codecity001/Codecity001/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Codecity001/Codecity001/output/pacman-contribution-graph.svg#gh-light-mode-only)
