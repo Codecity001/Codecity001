@@ -25,12 +25,17 @@
 <img src="https://komarev.com/ghpvc/?username=Codecity001&color=blue" alt="Master" />
 </h3>
 
+<h3 align="center"> PacMan </h3>
+
+![](https://raw.githubusercontent.com/Codecity001/Codecity001/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Codecity001/Codecity001/output/pacman-contribution-graph.svg#gh-light-mode-only)
+<!--
 <h3 align="center"> My Git Xenzia 🐍🎮</h3>
 
 ![](https://raw.githubusercontent.com/Codecity001/Codecity001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Codecity001/Codecity001/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
-<!--
+
 <p align="center">
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Codecity001&count_private=true&show_icons=true&theme=tokyonight"/>
 </p>
