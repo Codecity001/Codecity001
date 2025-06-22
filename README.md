@@ -6,7 +6,7 @@
 
 - 🌱 I am 24 year old.
 
-- 🏢 I am currently working on [**DERPFEST**](https://derpfest.org/) | Previously worked on [**FLAMINGO**](https://github.com/Flamingo-OS)
+- 🏢 I am currently working on [**Project Infinity**](https://github.com/ProjectInfinity-X) & [**Project Mist OS**](https://github.com/Project-Mist-OS) | Previously worked on [**FLAMINGO**](https://github.com/Flamingo-OS) & [**DERPFEST**](https://derpfest.org/) & [**KOSP**](https://github.com/AOSP-Krypton)
 
 - 📫 How to reach me [**Linkedin**](https://www.linkedin.com/in/harish-sangani-6935aa175) | [**Twitter**](https://twitter.com/HARISH__263) | [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) 
 
