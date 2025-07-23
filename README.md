@@ -18,11 +18,11 @@
 <h3 style="font-weight: bold" align="center"> HARISH GitHub stats </h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Codecity001&theme=tokyonight_duo&hide_border=true"/>
+<img src="https://github-readme-streak-stats-umber-omega.vercel.app?user=Codecity001&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 <h3 align="center">
-<img src="https://komarev.com/ghpvc/?username=Codecity001&color=blue" alt="Master" />
+<img src="https://komarev.com/ghpvc/?username=Codecity001&color=blue&label=Views" alt="Master" />
 </h3>
 
 
