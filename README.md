@@ -18,8 +18,7 @@
 <h3 style="font-weight: bold" align="center"> HARISH GitHub stats </h3>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats-66ulgmnur-codecity001s-projects.vercel.app?user=codecity001&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-git-main-codecity001s-projects.vercel.app?user=codecity001&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">
