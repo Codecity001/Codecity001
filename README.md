@@ -1,6 +1,6 @@
 <h3 style="font-weight: bold"> About me </h3>
 
-- 🏠 I am from India. I'm a Computer Science Graduate and part time Custom Rom Dev.
+- 🏠 I am a Computer Science Graduate from India and part time Custom Rom Dev.
 
 - 🏫 I am a Data Science Graduate from [**UofM**](https://www.memphis.edu/) 
 
