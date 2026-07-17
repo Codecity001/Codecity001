@@ -26,10 +26,17 @@
 </h3>
 
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codecity001/Codecity001/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codecity001/Codecity001/output/pacman-contribution-graph.svg">
   <img alt="Pac-man contribution graph" src="https://raw.githubusercontent.com/Codecity001/Codecity001/output/pacman-contribution-graph.svg">
+</picture>-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codecity001/Codecity001/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codecity001/Codecity001/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Codecity001/Codecity001/output/galaga-contribution-graph.svg">
 </picture>
 <!--
 <h3 align="center"> My Git Xenzia 🐍🎮</h3>
