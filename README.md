@@ -25,6 +25,13 @@
 <img src="https://komarev.com/ghpvc/?username=Codecity001&color=blue&label=Views" alt="Master" />
 </h3>
 
+![](https://raw.githubusercontent.com/Codecity001/Codecity001/output/galaga-contribution-graph-dark.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/Codecity001/Codecity001/output/galaga-contribution-graph.svg#gh-light-mode-only)
+
+<br>
+
+
 
 <!--
 <picture>
@@ -33,11 +40,6 @@
   <img alt="Pac-man contribution graph" src="https://raw.githubusercontent.com/Codecity001/Codecity001/output/pacman-contribution-graph.svg">
 </picture>-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codecity001/Codecity001/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codecity001/Codecity001/output/galaga-contribution-graph.svg">
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Codecity001/Codecity001/output/galaga-contribution-graph.svg">
-</picture>
 <!--
 <h3 align="center"> My Git Xenzia 🐍🎮</h3>
 
