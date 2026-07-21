@@ -4,9 +4,11 @@
 
 - 🏫 I am a Data Science Graduate from [**UofM**](https://www.memphis.edu/) 
 
-- 🌱 I am 24 year old.
+- 🌱 I am 25 year old.
 
 - 🏢 I am currently working on [**Project Infinity**](https://github.com/ProjectInfinity-X) & [**Project Mist OS**](https://github.com/Project-Mist-OS) | Previously worked on [**FLAMINGO**](https://github.com/Flamingo-OS) & [**DERPFEST**](https://derpfest.org/) & [**KOSP**](https://github.com/AOSP-Krypton)
+
+- 🌐 Learn more on my [**website**](https://codecity001.github.io/)
 
 - 📫 How to reach me [**Linkedin**](https://www.linkedin.com/in/harish-reddy-sangani-ba33b8358) | [**Twitter**](https://twitter.com/HARISH__263) | [**Telegram**](https://t.me/Harish9866) | [**XDA**](https://forum.xda-developers.com/m/sanganiharish263-gmail.8973945/) 
 
